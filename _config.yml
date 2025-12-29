@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Nedsky Narsolis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Network Architect | CCIE #25613 | Passionate about Network DesignAutomation, Security, and Cloud Technologies"
+  bio    : "Network Architect | CCIE #25613 | Passionate about Network Design, Automation, Security, and Cloud Technologies"
   location: "Winnipeg, Canada"
   links:
     - label: "Email"
